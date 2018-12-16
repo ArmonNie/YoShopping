@@ -2,7 +2,7 @@ package com.example.armon.yoshopping;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
+//2018.12.16
 public class MainActivity extends AppCompatActivity {
 
     // TODO: 2018/7/25 主页面功能列表
